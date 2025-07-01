@@ -43,5 +43,8 @@
 
 #import "ZXMultiFormatReader.h"
 #import "ZXMultiFormatWriter.h"
-
+#import "ZXBitMatrix.h"
+#import "ZXImage.h"
+#import "ZXUPCAWriter.h"
+#import "ZXEncodeHints.h"
 #endif
